@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I am Albert, an always inspired web developer.
+---
+### :man_technologist: About me:
+I am a front-end web developer from Armenia 🇦🇲
+
+- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I develop demo projects with different technologies and read tech articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albert-arakelyan/)
+
 <!--
 **AlbertArakelyan/AlbertArakelyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
