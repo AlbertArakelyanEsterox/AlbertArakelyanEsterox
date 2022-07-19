@@ -6,7 +6,8 @@ businesses build and manage stronger code bases.
 ### :man_technologist: About me:
 I am a Front-End web developer from Armenia 🇦🇲
 
-- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+- :telescope: I am also coaching junior developers who are just starting in their careers.
+As the leader of the front-end development team.
 
 - :seedling: Exploring Technical Content Writing.
 
