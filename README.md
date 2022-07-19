@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am Albert, an always inspired web developer.
+I am Albert, a Front-End Developer with a track record of using JavaScript and its frameworks to help
+businesses build and manage stronger code bases. 
 ---
 ### :man_technologist: About me:
-I am a front-end web developer from Armenia 🇦🇲
+I am a Front-End web developer from Armenia 🇦🇲
 
 - :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
 
