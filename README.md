@@ -27,7 +27,7 @@ As the leader of the front-end development team.
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   </div>
   <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40"         height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40"         height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40"         height="40"/>&nbsp;
       <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" title="Vuex" alt="Vuex" width="40"         height="40"/>&nbsp;
