@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Albert, a Front-End Developer with a track record of using JavaScript and its frameworks to help
 businesses build and manage stronger code bases. 
